@@ -1,5 +1,9 @@
 # lex yacc 学习 #
 
+## lex yacc参考文档 ##
+- http://dinosaur.compilertools.net
+- http://www.ibm.com/developerworks/cn/linux/l-lexyac.html
+
 ## code 01 ##
 
 	%%
